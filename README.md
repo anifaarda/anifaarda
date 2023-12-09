@@ -1,16 +1,19 @@
-### Hi there 👋
+## 👋 Hi there, I'm Anifa
 
-<!--
-**anifaarda/anifaarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Recent math education graduate diving into the world of data using Python 🐍. Aspiring Data Analyst 📊.**
 
-Here are some ideas to get you started:
+🔍 **Current Focus:**
+- Learning Python for data analysis.
+- Building projects to sharpen skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Future Goals:**
+- Transforming data into actionable insights.
+- Seeking opportunities to collaborate.
+
+📚 **Education:**
+- Bachelor's degree in Mathematics Education.
+
+🤝 **Let's Connect:**
+- LinkedIn: https://www.linkedin.com/in/anifasalisaarda
+
+Excited about the journey into data! 🚀
