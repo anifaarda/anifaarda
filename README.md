@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Anifa
 
-### **Recent math education graduate diving into the world of data using Python 🐍. Aspiring Data Analyst 📊.**
+### **A recent graduate with a passion for mathematics and a keen interest in the field of data analysis 📊.**
 
 🔍 **Current Focus:**
 - Learning Python for data analysis.
